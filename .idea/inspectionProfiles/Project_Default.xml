@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="format" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnreachableCodeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="HttpRequests.financialmodelingprep" />
+          <option value="HttpRequests.actives" />
+          <option value="HttpRequests.api" />
+          <option value="HttpRequests.v3" />
+          <option value="HttpRequests.https" />
+          <option value="HttpRequests.d44e6dc5d622b2ff97fa28b383069a4e" />
+          <option value="HttpRequests.rohansaroj7722" />
+          <option value="HttpRequests.username" />
+          <option value="HttpRequests.gmail" />
+          <option value="HttpRequests.*" />
+          <option value="requests" />
+          <option value="Akhbaar_PadhkeSunao.win32com" />
+          <option value="numpy" />
+          <option value="main.*" />
+          <option value="win32com" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
